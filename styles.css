@@ -1,0 +1,10 @@
+
+body {
+  margin: 0;
+  font-family: helvetica;
+  position: relative;
+}
+.mouse {
+  position: absolute;
+  background-color: blue;
+}
