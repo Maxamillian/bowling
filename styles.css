@@ -4,7 +4,21 @@ body {
   font-family: helvetica;
   position: relative;
 }
+.board {
+  border: 2px solid gray;
+  margin: 100px auto 0 auto;
+}
+.scoreboard {
+  position: relative;
+  float: right;
+  left: 95px;
+}
 .mouse {
   position: absolute;
   background-color: blue;
+}
+.border {
+  position: relative;
+  top: 400px;
+  border-top: 2px solid gray;
 }
